@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arashHarirpoosh/Arash_Harirpoosh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-
+<!-- 
 ---
 I am a 4th year BSc student in Computer Engineering at Amirkabir University (Tehran Polytechnic) where I am member of SML-Lab under supervision of Dr.Nickabadi.<br/>
 My current research interests include deep learning, computer vision and image processing.
@@ -90,5 +90,5 @@ AREAS OF INTEREST
 * Computer Vision and Image Processing
 * Software Engineering
 * Fuzzy Systems
-* Evolutionary Algorithms
+* Evolutionary Algorithms -->
 
